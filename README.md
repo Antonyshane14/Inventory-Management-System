@@ -1,6 +1,4 @@
-# Maguva - Boutique Management System
-
-A comprehensive Django-based boutique management system for inventory, sales, and customer management.
+A comprehensive Django-based inventory management system for inventory, sales, and customer management.
 
 ## 🚀 Quick Start
 
